@@ -1,0 +1,9 @@
+﻿1.Proqramlaşdirma nədir?
+Proqram yaratmaqla bağlı nəzəri və praktiki yaradıcılıq sahəsidir. Proqramlaşdırma dilinin seçilməsi; verilənlərin təşkili qaydalarının dəqiqləşdirilməsi; seçilmiş proqramlaşdırma dilində alqoritmin sirali şəkildə  yazılmasidir.
+2.Software nədir və kompüterdə necə emal olunur? 
+Gündəliink həyatimizda istifade etdiyimiz texnalogiyalarin (telefon,kompuyuter,televizor) daxilində olan proqramlar ve yaxud proqram dillərinə Sofware deyilir.Software kompuyuterdə proqram dilləri sayəsində emal olunur. :)
+3. Proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?
+Hər bir proqramlaşdırma dilinin öz müsbət və mənfi tərəfləri vardir.Buna gorə mənim fikrimcə dillər 3 yerə bolunməlidirş.
+1.Böyük, mürəkkəb proqramlar üçün  təyinatlı dillər: C, C++, Pascal, Python, Ada, Java, C#.
+2.Kiçik proqramlar üçün təyinatlı dillər: BASIC, Visual Basic, Pascal, Python.
+3.Riyazi hesablamalar, elm və mühəndislik üçün təyinatlı dillər.: FORTRAN, APL, Maple və
